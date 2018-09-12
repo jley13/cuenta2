@@ -2,3 +2,6 @@ primer comentario
 
 
 conflicto resuelto
+
+
+comentario desde rama2
