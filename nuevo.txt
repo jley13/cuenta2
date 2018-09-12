@@ -1,6 +1,4 @@
 primer comentario
 
 
-segundo comentario - desde jleyrs
-
-tercer - desde rama1
+conflicto resuelto
