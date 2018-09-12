@@ -6,4 +6,4 @@ conflicto resuelto
 
 comentario desde rama2
 
-nuevo comentario desde rama2
+conflicto 2 resuelto
