@@ -1,4 +1,4 @@
 primer comentario
 
 
-comentario desde otra rama
+conflicto resuelto
